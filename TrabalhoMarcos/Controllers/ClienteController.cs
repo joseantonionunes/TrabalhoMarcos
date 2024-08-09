@@ -2,9 +2,9 @@
 using TrabalhoMarcos.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+//using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 
-namespace Aula2407.Controllers
+namespace TrabalhoMarcos.Controllers
 {
     public class ClienteController : Controller
     {
